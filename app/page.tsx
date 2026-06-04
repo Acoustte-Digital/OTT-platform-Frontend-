@@ -33,7 +33,7 @@ export default function Home() {
           <div className="flex gap-3">
             <Link
               href={`/watch/${hero.id}`}
-              className="rounded bg-white px-5 py-2 font-semibold text-black transition hover:bg-zinc-200"
+              className="rounded bg-red-800 px-5 py-2 font-semibold text-black transition hover:bg-zinc-200"
             >
               Play
             </Link>
