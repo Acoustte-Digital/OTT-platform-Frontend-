@@ -55,7 +55,7 @@ export default function Home() {
         </div>
       ) : (
         <div className="space-y-8">
-          <Carousel title="Trending Now" items={trending} />
+          <Carousel title="Popular Uploads" items={trending} />
           <Carousel title="Popular Movies" items={popular} />
           <Carousel title="Recommended for You" items={recommended} />
         </div>
