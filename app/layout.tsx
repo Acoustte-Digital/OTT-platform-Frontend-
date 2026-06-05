@@ -10,7 +10,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "AcoustteFlix",
+  title: "OTTFlix",
   description: "Modern OTT streaming frontend",
 };
 

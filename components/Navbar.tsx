@@ -12,7 +12,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-zinc-800/70 bg-black/80 backdrop-blur">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/" className="text-lg font-bold tracking-wide text-red-500">
-          AcoustteFlix
+          OTTFlix
         </Link>
         <div className="flex items-center gap-4 text-sm text-zinc-200">
           {navLinks.map((link) => (
