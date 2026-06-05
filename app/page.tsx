@@ -35,7 +35,7 @@ export default function Home() {
               href={`/watch/${hero.id}`}
               className="rounded bg-red-800 px-5 py-2 font-semibold text-black transition hover:bg-zinc-200"
             >
-              Play
+              Play Now
             </Link>
             <Link
               href="/browse"
